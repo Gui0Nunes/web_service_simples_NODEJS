@@ -1,0 +1,6 @@
+/front/
+/front/node_modules/
+/node_modules/
+.env
+/front/.env/
+/api_back/node_modules/
